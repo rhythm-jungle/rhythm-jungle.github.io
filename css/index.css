@@ -27,21 +27,22 @@ body{
 	transform: translateY(-50%);
 }
 
-#top_btn{
-	height: 46%;
+#top_appstore{
 	width: auto;
+	height: 46%;
 	position: absolute;
-	left:59.6%;
+	left: 58%;
 	top:50%;
 	transform: translateY(-50%);
 }
-
-#top_btn img{
-	height: 100%;
+#top_googleplay{
 	width: auto;
-	padding-right: 2px;
+	height: 46%;
+	position: absolute;
+	left: 69%;
+	top:50%;
+	transform: translateY(-50%);
 }
-
 
 /* Disc */
 .disc_panel{
@@ -86,10 +87,10 @@ body{
 }
 
 .disc_btns{
-	width: 90%;
+	width: 91%;
 	position: absolute;
 	bottom: 10%;
-	left: -2%;
+	left: -0.4%;
 }
 
 .disc_btn{
@@ -115,18 +116,34 @@ body{
 	position: fixed;
 }
 
-#bottom_contact{
+
+#bottom_weibo{
+	width: auto;
 	height: 22.17%;
-	width: 100%;
+	left: 38%;
 	position: absolute;
 	top:50%;
-	transform: translateY(-50%);
+	transform: translateY(-50%) translateX(-50%);
 }
 
-#bottom_contact img{
-	height: 100%;
-	padding-left: 35px;
-	padding-right: 35px;
+#bottom_tieba{
+	width: auto;
+	height: 22.17%;
+	left: 50%;
+	position: absolute;
+	top:50%;
+	transform: translateY(-50%) translateX(-50%);
+
+}
+
+#bottom_QQ{
+	width: auto;
+	height: 22.17%;
+	left: 62%;
+	position: absolute;
+	top:50%;
+	transform: translateY(-50%) translateX(-50%);
+
 }
 
 /* bottom studio */
