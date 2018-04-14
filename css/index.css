@@ -119,19 +119,19 @@ body{
 }
 
 
-#bottom_weibo{
+/*#bottom_weibo{
 	width: auto;
 	height: 22.17%;
 	left: 38%;
 	position: absolute;
 	top:50%;
 	transform: translateY(-50%) translateX(-50%);
-}
+}*/
 
 #bottom_tieba{
 	width: auto;
 	height: 22.17%;
-	left: 50%;
+	left: 45%;
 	position: absolute;
 	top:50%;
 	transform: translateY(-50%) translateX(-50%);
@@ -141,7 +141,7 @@ body{
 #bottom_QQ{
 	width: auto;
 	height: 22.17%;
-	left: 62%;
+	left: 55%;
 	position: absolute;
 	top:50%;
 	transform: translateY(-50%) translateX(-50%);
