@@ -141,5 +141,12 @@ body{
 	background-color: #111111;
 	color: #000000;
 	text-align: center;
+	position: relative;
+}
+
+#bottom_studio img{
+	position: absolute;
+	top:50%;
+	transform: translateY(-50%) translateX(-50%);
 }
 
