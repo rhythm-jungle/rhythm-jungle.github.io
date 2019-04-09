@@ -1,0 +1,21 @@
+
+
+.center{
+	text-align: center;
+}
+
+span{
+	padding-left: 2em;
+}
+
+#content{
+	width: 500px;
+	margin: auto;
+
+}
+
+#language{
+	margin: auto;
+	width: 600px;
+	text-align: right;
+}
